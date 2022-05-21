@@ -29,44 +29,44 @@ ekleyip rota hakkında bilgi veya hissettikleri duyguları da dahil edip paylaş
 
 
 
-*Geliştirme Ortamı*
-Backend -> Dotnet
+*Geliştirme Ortamı*  
+Backend -> Dotnet  
 Frontend -> Angular
 
-*Kullanılan Diller*
-C#
-HTML
-CSS
-JavaScript
-TypeScript
+*Kullanılan Diller*  
+C#  
+HTML  
+CSS  
+JavaScript  
+TypeScript  
 
-*Kullanılan API'ler*
-Kendi yazdığım WebAPI
+*Kullanılan API'ler*  
+Kendi yazdığım WebAPI  
 Google Map API
 
-*Kullanılan Veri Tabanı*
+*Kullanılan Veri Tabanı*  
 MsSql
 
-*Backend için kullanılan paketler*
+*Backend için kullanılan paketler*  
 
-Autofac
-Autofac.Extensions.DependencyInjection
-Autofac.Extras.DynamicProxy
-FluentValidation
-Microsoft.AspNetCore.Authentication.JwtBearer
-Microsoft.AspNetCore.Http
-Microsoft.AspNetCore.Http.Abstractions
-Microsoft.AspNetCore.Http.Features
-Microsoft.EntityFrameworkCore.SqlServer
-Microsoft.Extensions.Configuration
-Microsoft.Extensions.DependencyInjection
-System.IdentityModel.Tokens.Jwt
+Autofac  
+Autofac.Extensions.DependencyInjection  
+Autofac.Extras.DynamicProxy  
+FluentValidation  
+Microsoft.AspNetCore.Authentication.JwtBearer  
+Microsoft.AspNetCore.Http  
+Microsoft.AspNetCore.Http.Abstractions  
+Microsoft.AspNetCore.Http.Features  
+Microsoft.EntityFrameworkCore.SqlServer  
+Microsoft.Extensions.Configuration  
+Microsoft.Extensions.DependencyInjection  
+System.IdentityModel.Tokens.Jwt  
 
 
-"Don't repeat yourself!"
-"Hadi bakalım arkadaşlar, şimdi yepyeni bir konuya geçiyoruz"
-"Hello my friends"
--Engin Demiroğ
+"Don't repeat yourself!"  
+"Hadi bakalım arkadaşlar, şimdi yepyeni bir konuya geçiyoruz"  
+"Hello my friends"  
+-Engin Demiroğ  
 
 
 
