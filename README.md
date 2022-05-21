@@ -18,15 +18,11 @@ JWT ile yetkilendirme, güvenlik işlemleri
 Encription-Decription ile şifre güvenliği ve hashing işlemleri  
 gibi işlemleri bu projeyi yaparken öğrenmiş oldum.  
 
-
- 
 Proje Adı : Rota web uygulaması  
 Projeyi Yapan : Emirhan Altuntaş  
 Proje Amacı : Bisiklet, motor gibi iki teker taşıt kullanan, toplumun bir kısmını oluşturan bireyler için
 harita üzerinden rota oluşturabilecekleri, bu rotada çekildikleri fotoğrafları ekliyebilecekleri ve gönderilerine bir açıklama 
 ekleyip rota hakkında bilgi veya hissettikleri duyguları da dahil edip paylaşabilecekleri bir ortam yaratmak. Bu proje herhangi bir kullanıcının daha önce oluşturduğu bir rotayı, diğer bir kullanıcın hoşuna gittiği takdirde kullanabilmesi için geliştirilmiştir.
-
-
 
 
 *Geliştirme Ortamı*  
